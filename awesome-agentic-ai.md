@@ -1,5 +1,9 @@
 # Awesome Agentic AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+![Last Updated](https://img.shields.io/badge/last%20updated-February%202026-blue)
+![License](https://img.shields.io/badge/license-CC0%201.0-green)
+![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
+
 > A curated list of frameworks, libraries, tools, platforms, protocols, and resources for building agentic AI systems. Last updated: February 2026.
 
 Agentic AI refers to AI systems that can autonomously plan, reason, use tools, and complete complex multi-step tasks with minimal human intervention.
@@ -10,6 +14,7 @@ Agentic AI refers to AI systems that can autonomously plan, reason, use tools, a
 
 | Version | Date | Notes |
 |---------|------|-------|
+| [v1.0.2](#) | Feb 2026 | Added `VoltAgent` to Frameworks & Orchestration and `awesome-ai-agent-papers` to Other Awesome Lists after reviewing the `VoltAgent` GitHub organization. |
 | [v1.0.1](#) | Feb 2026 | Reviewed against GitHub `awesome-ai` topic page; added missing relevant lists in `Other Awesome Lists` (`awesome-ai-coding-tools`, `awesome-claude`, `awesome-github-copilot`, `awesome-ai-agents`). |
 | [v1.0.0](#) | Feb 2026 | Initial release. Covers frameworks, multi-agent systems, coding agents, protocols, LLM models, memory/RAG, tool use, observability, low-code builders, local tooling, cloud platforms, benchmarks, research, and learning resources. |
 
@@ -50,6 +55,7 @@ General-purpose frameworks for building agentic LLM applications.
 | [DSPy](https://github.com/stanfordnlp/dspy) | 24k+ | Stanford's framework for programming LLM pipelines using declarative modules and auto-optimization. |
 | [smolagents](https://github.com/huggingface/smolagents) | 25k+ | Hugging Face's minimal, code-first agent framework (~1k lines of core logic). Model- and tool-agnostic. |
 | [Mastra](https://github.com/mastra-ai/mastra) | 6k+ | TypeScript-native agentic framework with workflows, memory, and tool support. |
+| [VoltAgent](https://github.com/VoltAgent/voltagent) | 6k+ | Open-source TypeScript AI agent framework with workflows, memory, MCP, RAG, guardrails, and production-oriented ops integrations. |
 | [Agno](https://github.com/agno-agi/agno) | 22k+ | Production-grade multi-agent framework with strong memory, context, and documentation. (formerly phidata) |
 | [Semantic Kernel](https://github.com/microsoft/semantic-kernel) | 26k+ | Microsoft's SDK for integrating LLMs into C#, Python, and Java apps with agentic patterns. |
 | [Instructor](https://github.com/jxnl/instructor) | 10k+ | Structured outputs from LLMs via Pydantic schemas. Pairs well with any agent framework. |
@@ -285,6 +291,7 @@ Seminal papers and surveys shaping agentic AI research.
 - [awesome-claude](https://github.com/tonysurfly/awesome-claude) — Curated list of Claude ecosystem tools and resources (including coding-agent workflows).
 - [awesome-github-copilot](https://github.com/anchildress1/awesome-github-copilot) — Prompts, agents, skills, and practical resources for GitHub Copilot.
 - [awesome-ai-agents (NipunaRanasinghe)](https://github.com/NipunaRanasinghe/awesome-ai-agents) — Curated frameworks, tools, and resources for AI agents.
+- [awesome-ai-agent-papers](https://github.com/VoltAgent/awesome-ai-agent-papers) — Curated collection of recent AI agent research papers (agent engineering, memory, evals, workflows).
 - [awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) — 300+ agentic AI projects with metrics and categories.
 - [awesome-llm-agents](https://github.com/kaushikb11/awesome-llm-agents) — Curated LLM-powered agent papers and projects.
 - [awesome-langchain](https://github.com/kyrolabs/awesome-langchain) — Tools and projects built with LangChain.
@@ -301,6 +308,14 @@ Pull requests are welcome! Please ensure entries are:
 - Actively maintained (last commit within 12 months, or historically significant)
 - Relevant to agentic AI (autonomous decision-making, tool use, planning, multi-agent)
 - Accompanied by a clear, one-line description
+
+---
+
+## License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+This list is released under the [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) public domain dedication.
 
 ---
 
