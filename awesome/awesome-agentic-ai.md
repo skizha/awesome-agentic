@@ -10,6 +10,7 @@ Agentic AI refers to AI systems that can autonomously plan, reason, use tools, a
 
 | Version | Date | Notes |
 |---------|------|-------|
+| [v1.0.1](#) | Feb 2026 | Reviewed against GitHub `awesome-ai` topic page; added missing relevant lists in `Other Awesome Lists` (`awesome-ai-coding-tools`, `awesome-claude`, `awesome-github-copilot`, `awesome-ai-agents`). |
 | [v1.0.0](#) | Feb 2026 | Initial release. Covers frameworks, multi-agent systems, coding agents, protocols, LLM models, memory/RAG, tool use, observability, low-code builders, local tooling, cloud platforms, benchmarks, research, and learning resources. |
 
 ---
@@ -280,6 +281,10 @@ Seminal papers and surveys shaping agentic AI research.
 
 ## Other Awesome Lists
 
+- [awesome-ai-coding-tools](https://github.com/ai-for-developers/awesome-ai-coding-tools) — Curated list of AI-powered coding tools.
+- [awesome-claude](https://github.com/tonysurfly/awesome-claude) — Curated list of Claude ecosystem tools and resources (including coding-agent workflows).
+- [awesome-github-copilot](https://github.com/anchildress1/awesome-github-copilot) — Prompts, agents, skills, and practical resources for GitHub Copilot.
+- [awesome-ai-agents (NipunaRanasinghe)](https://github.com/NipunaRanasinghe/awesome-ai-agents) — Curated frameworks, tools, and resources for AI agents.
 - [awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents) — 300+ agentic AI projects with metrics and categories.
 - [awesome-llm-agents](https://github.com/kaushikb11/awesome-llm-agents) — Curated LLM-powered agent papers and projects.
 - [awesome-langchain](https://github.com/kyrolabs/awesome-langchain) — Tools and projects built with LangChain.
